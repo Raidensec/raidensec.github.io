@@ -4,10 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+# **whoami**
+
 Hey, I'm **Karim**, a student at Delta University with a specialization in cybersecurity who has done programming and scripting, mostly web stuff, and automation tools to replace the soul-crushing repetitive tasks.
 Outside of security, I enjoy games as well as sci-fi and anime.
 
-# contact
+# **contact**
 You can get in touch via **discord**.
 
 
