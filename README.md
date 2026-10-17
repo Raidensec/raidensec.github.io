@@ -4,7 +4,7 @@ Recruiter portfolio: [https://raidensec.github.io/](https://raidensec.github.io/
 
 ## Site files
 
-The published site is in `dist/`. Edit `dist/index.html`, `dist/styles.css`, and `dist/main.js` to update the portfolio.
+The published site is in `dist/`. Edit `dist/index.html`, `dist/styles.css`, and `dist/main.js` to update the portfolio. The repository root `index.html` forwards visitors to `/dist/` when Pages serves the branch directly.
 
 ## Deployment
 

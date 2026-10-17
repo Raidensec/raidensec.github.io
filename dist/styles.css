@@ -106,7 +106,6 @@ h1 em, h2 em { color: var(--acid); font-family: var(--serif); font-weight: 400; 
 .orbit-two { width: 112%; aspect-ratio: 1.65; border-color: rgba(217, 231, 202, .11); transform: rotate(28deg); }
 .orbit-node { position: absolute; z-index: 0; width: 6px; height: 6px; border-radius: 50%; background: var(--acid); box-shadow: 0 0 14px var(--acid); }
 .node-a { top: 13%; right: 22%; }
-.node-b { bottom: 16%; left: 17%; background: var(--blue); box-shadow: 0 0 14px var(--blue); }
 .node-c { top: 32%; left: 5%; width: 4px; height: 4px; }
 .map-card { position: relative; z-index: 1; width: min(100%, 480px); padding: 23px 23px 17px; border: 1px solid rgba(226, 238, 213, .18); background: linear-gradient(140deg, rgba(32, 38, 32, .96), rgba(19, 23, 19, .94)); box-shadow: 0 24px 90px rgba(0, 0, 0, .35); }
 .map-card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 15px; margin-bottom: 19px; }
